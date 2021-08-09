@@ -36,7 +36,6 @@ import './form.scss';
 
 // export default Form;
 import React from 'react'
-import { isConstructorDeclaration } from 'typescript';
 
 function Form(props) {
   let [showPostTextArea,setShowPostTextArea] = useState(false);
