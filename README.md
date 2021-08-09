@@ -18,7 +18,7 @@
 
 - The <Results/> component should show mock API results  
 ## links: 
-- [gitHub](https://github.com/awwadsaeed/resty/pull/4)
+- [gitHub Actions](https://github.com/awwadsaeed/resty/pull/4)
 - [netlify](https://peaceful-meninsky-ebd275.netlify.app/)
 - [sand box](https://codesandbox.io/s/reverent-mayer-qzc6x)  
 ## UML  
