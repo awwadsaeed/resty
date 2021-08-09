@@ -17,7 +17,9 @@
   - Call back to the <App/> component via function sent down through a prop so that the app can begin the process  
 
 - The <Results/> component should show mock API results  
-## link to sandBox:  
+## link to sandBox: 
+[gitHub](https://github.com/awwadsaeed/resty/pull/4)
+[netlify](https://peaceful-meninsky-ebd275.netlify.app/)
 [sand box](https://codesandbox.io/s/reverent-mayer-qzc6x)  
 ## UML  
 ![UML](./lab26.JPG)
