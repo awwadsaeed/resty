@@ -20,6 +20,6 @@
 ## links: 
 - [gitHub Actions](https://github.com/awwadsaeed/resty/pull/4)
 - [netlify](https://peaceful-meninsky-ebd275.netlify.app/)
-- [sand box](https://codesandbox.io/s/reverent-mayer-qzc6x)  
+- [sand box](https://codesandbox.io/s/charming-silence-ejci8?file=/src/app.js)  
 ## UML  
 ![UML](./lab26.JPG)
