@@ -22,6 +22,7 @@ class App extends React.Component {
 
   callApi = (requestParams,requestBody) => {
     // mock output
+    this.setState({data:null});
     const data = {
       Headers:{
         "content-type": 'string application/json',
