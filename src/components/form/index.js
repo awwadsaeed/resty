@@ -1,5 +1,4 @@
 // import React from 'react';
-
 import { useState,useEffect } from 'react';
 import './form.scss';
 // class Form extends React.Component {
@@ -41,7 +40,7 @@ function Form(props) {
   let [showPostTextArea,setShowPostTextArea] = useState(false);
   let [method, setmethod] = useState('get');
   let [url, seturl] = useState("https://pokeapi.co/api/v2/pokemon");
-  let [requestBody, setrequestBody] = useState("https://pokeapi.co/api/v2/pokemon");
+  let [requestBody, setrequestBody] = useState();
   useEffect(() => {
     console.log(url);
   }, [url])
